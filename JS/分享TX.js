@@ -1,4 +1,4 @@
-ar rule = {
+var rule = {
     title: '腾云驾雾[官]',
     host: 'https://v.%71%71.com',
     // homeUrl: '/x/bu/pagesheet/list?_all=1&append=1&channel=choice&listpage=1&offset=0&pagesize=21&iarea=-1&sort=18',

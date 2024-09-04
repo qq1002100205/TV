@@ -35,7 +35,7 @@
     "搜索图片": "vodPic\":\"&&\"",
     "搜索副标题": "\"vodRemarks\":\"&&\"+_+vodVersion\":\"&&\"",
     "搜索链接": "https://www.chrqj.com/detail/+vodId\":&&,",
-    "分类url": "https://www.chrqj.com/vod/show/page/{catePg}/id/{cateId}/class/{class}/area/{area}/year/{year}/lang/{lang}/sortType/{by}/sortOrder/0;;mrc",
+    "分类url": "https://www.chrqj.com/vod/show/id/{cateId}/type/{class}/area/{area}/year/{year}/page/{catePg};;d0",
     "分类": "电影&剧集&综艺&动漫",
     "分类值": "1&2&3&4",
     "筛选": "1",

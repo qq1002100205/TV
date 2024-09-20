@@ -32,7 +32,7 @@ var rule = {
     let d = [];
     
     // 发起请求并解析返回的 JSON 数据
-    let response = JSON.parse(request("http://122.228.85.203:6789/api/?key=31b42c9fbe45f07021f3a67d6935d718&url=" + input));
+    let response = JSON.parse(request("http://43.242.202.173:3636/json.php/?key=605738282&url=" + input));
     
     // 获取所有字段名
     let keys = Object.keys(response);
